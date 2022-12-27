@@ -1,0 +1,192 @@
+2022-12-26 18:27:21,653 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-26 18:28:04,066 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [345])
+2022-12-26 18:28:04,072 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2022-12-26 18:28:04,073 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2022-12-26 18:28:04,073 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2022-12-26 18:28:04,073 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2022-12-26 18:28:04,073 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2022-12-26 18:28:04,074 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2022-12-26 18:28:04,074 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2022-12-26 18:28:04,074 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2022-12-26 18:28:04,075 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2022-12-26 18:28:04,075 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2022-12-26 18:28:04,075 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2022-12-26 18:28:04,075 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2022-12-26 18:28:04,076 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2022-12-26 18:28:04,076 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2022-12-26 18:28:04,077 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2022-12-26 18:28:04,077 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2022-12-26 18:28:04,077 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2022-12-26 18:28:04,077 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2022-12-26 18:28:04,077 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2022-12-26 18:28:04,078 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2022-12-26 18:28:04,078 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2022-12-26 18:28:04,078 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2022-12-26 18:28:04,078 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2022-12-26 18:28:04,079 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2022-12-26 18:28:04,079 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2022-12-26 18:28:04,079 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2022-12-26 18:28:04,079 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2022-12-26 18:28:04,080 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2022-12-26 18:28:04,080 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2022-12-26 18:28:04,080 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2022-12-26 18:28:04,080 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2022-12-26 18:28:04,081 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2022-12-26 18:28:04,081 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2022-12-26 18:28:04,081 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2022-12-26 18:28:04,081 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2022-12-26 18:28:04,081 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2022-12-26 18:28:04,082 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2022-12-26 18:28:04,082 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2022-12-26 18:28:04,082 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2022-12-26 18:28:04,084 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [22])
+2022-12-26 18:28:04,086 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2022-12-26 18:28:04,086 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [584])
+2022-12-26 18:28:04,088 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\slf4j.api_1.7.36.jar
+2022-12-26 18:28:04,088 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [49])
+2022-12-26 18:28:04,089 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2022-12-26 18:28:04,089 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [47])
+2022-12-26 18:28:04,090 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\002GI7744\Downloads\sts-4.17.0.RELEASE\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2022-12-26 18:28:04,103 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service":
+2022-12-26 18:28:04,108 [Worker-5: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2022-12-26 18:28:13,249 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.ibm:CaseStudy_Product_Service:0.0.1-SNAPSHOT @ C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\pom.xml.
+2022-12-26 18:28:14,699 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.tucaurto:CaseStudy-SecurityService:0.0.1-SNAPSHOT @ C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\pom.xml.
+2022-12-26 18:28:16,170 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Product_Service/src/main/java
+2022-12-26 18:28:16,172 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Product_Service/src/main/resources
+2022-12-26 18:28:16,183 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Product_Service/src/main/resources
+2022-12-26 18:28:16,200 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Product_Service/src/test/java
+2022-12-26 18:28:18,393 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Security_Service/src/main/java
+2022-12-26 18:28:18,395 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Security_Service/src/main/resources
+2022-12-26 18:28:18,396 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Security_Service/src/main/resources
+2022-12-26 18:28:18,398 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Security_Service/src/test/java
+2022-12-26 18:28:18,726 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 29 sec
+2022-12-26 18:28:19,053 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-26 18:28:19,712 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.tucaurto:CaseStudy-SecurityService:0.0.1-SNAPSHOT @ C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\pom.xml.
+2022-12-26 18:28:21,748 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Security_Service/src/main/java
+2022-12-26 18:28:21,748 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Security_Service/src/main/resources
+2022-12-26 18:28:21,749 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Security_Service/src/main/resources
+2022-12-26 18:28:21,750 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Security_Service/src/test/java
+2022-12-26 18:28:22,280 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2022-12-26 18:28:24,675 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:28:24,687 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 18:28:24,710 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 18:28:24,720 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:28:24,720 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\src\test\resources
+2022-12-26 18:38:36,816 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:38:36,828 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 18:38:36,829 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 18:38:36,831 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:38:36,831 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\src\test\resources
+2022-12-26 18:39:04,290 [Worker-12: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service":
+2022-12-26 18:39:04,291 [Worker-12: Launching Executing clean in C__Users_002GI7744_Documents_ANN-ECOM-master_CaseStudy_Security_Service] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2022-12-26 18:39:10,025 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:39:10,028 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 18:39:10,030 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 18:39:10,035 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:39:10,035 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\src\test\resources
+2022-12-26 18:39:47,746 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-26 18:39:49,033 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.ibm:CaseStudy_Product_Service:0.0.1-SNAPSHOT @ C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\pom.xml.
+2022-12-26 18:39:52,626 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: in.tucaurto:CaseStudy-SecurityService:0.0.1-SNAPSHOT @ C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\pom.xml.
+2022-12-26 18:39:57,300 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Product_Service/src/main/java
+2022-12-26 18:39:57,301 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Product_Service/src/main/resources
+2022-12-26 18:39:57,301 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Product_Service/src/main/resources
+2022-12-26 18:39:57,301 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Product_Service/src/test/java
+2022-12-26 18:39:58,112 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Security_Service/src/main/java
+2022-12-26 18:39:58,112 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Security_Service/src/main/resources
+2022-12-26 18:39:58,113 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CaseStudy_Security_Service/src/main/resources
+2022-12-26 18:39:58,114 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CaseStudy_Security_Service/src/test/java
+2022-12-26 18:39:58,610 [Worker-11: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CaseStudy_Product_Service
+2022-12-26 18:39:58,634 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 2 poms: local refresh takes 0.00 sec, refresh facades takes 9.00 sec, update config takes 0.00 sec 
+2022-12-26 18:39:59,346 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CaseStudy_Product_Service
+2022-12-26 18:39:59,347 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CaseStudy_Product_Service
+2022-12-26 18:40:00,230 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:40:00,232 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 18:40:00,474 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:40:00,476 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 18:40:00,495 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 18:40:00,500 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:40:00,500 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\src\test\resources
+2022-12-26 18:44:01,601 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:44:01,610 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 18:44:01,612 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 18:44:01,615 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:44:01,615 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\src\test\resources
+2022-12-26 18:44:19,629 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:44:19,629 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 18:44:19,634 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 18:44:19,645 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 18:44:19,648 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:44:19,648 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 18:44:19,648 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-26 18:46:06,501 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:46:06,502 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 18:46:06,507 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 18:46:06,510 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 18:46:06,511 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\src\test\resources
+2022-12-26 19:20:27,996 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:20:27,997 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:20:27,997 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:20:27,997 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:20:28,000 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:20:28,000 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:20:28,000 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-26 19:20:28,019 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:20:28,019 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:20:28,020 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:20:28,023 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:20:28,023 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\src\test\resources
+2022-12-26 19:21:49,298 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:21:49,298 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:21:49,299 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 19:21:49,309 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:21:49,312 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:21:49,314 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:21:49,314 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-26 19:21:50,381 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:21:50,381 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:21:50,381 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 19:21:50,388 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:21:50,393 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:21:50,393 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:21:50,393 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-26 19:22:14,904 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:22:14,905 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:22:14,905 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 19:22:14,912 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:22:14,917 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:22:14,917 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:22:14,918 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-26 19:22:15,961 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:22:15,962 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:22:15,963 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 19:22:16,000 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:22:16,005 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:22:16,006 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:22:16,006 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-26 19:22:30,672 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:22:30,672 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:22:30,673 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 19:22:30,680 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:22:30,684 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:22:30,684 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:22:30,684 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-26 19:22:48,141 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:22:48,141 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:22:48,142 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-26 19:22:48,160 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 19:22:48,165 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-26 19:22:48,165 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-26 19:22:48,166 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-27 13:36:07,219 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-27 13:36:25,539 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-27 13:36:25,540 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-27 13:36:25,546 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-27 13:36:25,570 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-27 13:36:25,576 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-27 13:36:25,576 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-12-27 13:36:25,576 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Product_Service\src\test\resources
+2022-12-27 13:36:52,420 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-27 13:36:52,420 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-27 13:36:52,439 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-27 13:36:52,442 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-27 13:36:52,442 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\002GI7744\Documents\ANN-ECOM-master\CaseStudy_Security_Service\src\test\resources
